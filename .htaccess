@@ -1,8 +1,0 @@
-<Files .htaccess>
-	<Limit GET>
-	deny from all
-	</Limit>
-</Files>
-
-IndexIgnore *
-
