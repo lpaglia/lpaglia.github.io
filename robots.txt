@@ -5,7 +5,4 @@
 # http://www.robotstxt.org/robotstxt.html
 
 User-agent: *
-Crawl-delay: 10
-Allow: /*.html$
-Disallow: /dad/
-Disallow: /recipes/
+Disallow: /
